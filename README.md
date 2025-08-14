@@ -4,6 +4,9 @@
 
 ## Set up your own workshop
 
+## Use Quick Play Scenarios 
+
+*INFO: Do not click these if you are a player -- these are Incident Commander Eyes Only!!!*
 
 ## Browse Past Talks and Sessions
 
