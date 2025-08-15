@@ -1,6 +1,4 @@
-----
-
-# Quick Play Scenario: **< SCENARIO TITLE >**
+# AIRCTL Project Quick Play Scenario: **< SCENARIO TITLE >**
 
 **< IMAGE OF ATTACK >**
 ## Scenario Detections Map:
@@ -49,4 +47,6 @@ PERSISTENCE: **< CARD TITLE >**
 
 ### License & References:
 https://github.com/airctl/airctl-gameplay-resources/blob/main/scenarios/README.md
+https://github.com/airctl
+https://airctl.github.io/
 
