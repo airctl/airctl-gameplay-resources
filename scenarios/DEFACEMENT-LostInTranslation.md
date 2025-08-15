@@ -1,20 +1,20 @@
-# Quick Play Scenario: "Lost in Translation"
+# AIRCTL Project Quick Play Scenario: "Lost in Translation"
+
+<img width="1481" height="279" alt="image" src="https://github.com/user-attachments/assets/ad347097-26fa-4f2e-a600-1afa017c945a" />
 
 
-
-**< IMAGE OF ATTACK >**
 ## Scenario Detections Map:
-INITIAL ACCESS: **< CARD TITLE >**
-- Procedure 1, ..., Procedure N
+INITIAL ACCESS - HIJACKED MODEL REPOSITORY
+- Functional Baselines, Cross-Validation, Server Analysis
 
-PIVOT and ESCALATE: **< CARD TITLE >**
-- Procedure 1, ..., Procedure N
+PIVOT and ESCALATE - NEW SERVICE CREATION/MODIFICATION
+- Endpoint Analysis, Endpoint Security Protection Analysis
 
-C2 and EXFIL: **< CARD TITLE >**
-- Procedure 1, ..., Procedure N
+C2 and EXFIL - DNS AS C2
+- Network Threat Hunting - Zeek/RITA Analysis, Firewall Log Review
 
-PERSISTENCE: **< CARD TITLE >**
-- Procedure 1, ..., Procedure N
+PERSISTENCE - MALICIOUS SERVICE
+- Endpoint Analysis, Memory Analysis, Endpoint Security Protection Analysis
 
 ## Preamble
 **< TEXT TO READ AT START >**
