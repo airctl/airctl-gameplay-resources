@@ -1,13 +1,12 @@
-# Gameplay Resources Repository for AIRCTL Incident Commanders
+# Gameplay Resources Repository for AIRCTL Incident Capitans
 
+## Learn about AIRCTL Quick Play Scenarios
 
-
-## Set up your own workshop
+https://github.com/airctl/airctl-gameplay-resources/blob/main/scenarios/README.md
 
 ## Use Quick Play Scenarios 
 
 *INFO: Do not click these if you are a player -- these are Incident Commander Eyes Only!!!*
 
-## Browse Past Talks and Sessions
-
-https://github.com/airctl/airctl-gameplay-resources/blob/main/AIRCTL%20FOSSY%202025%20-%20Emily%20Soward.pdf
+https://github.com/airctl/airctl-gameplay-resources/blob/main/scenarios/DEFACEMENT_Lost-In-Translation.md
+https://github.com/airctl/airctl-gameplay-resources/blob/main/scenarios/EXPLOITATION_The-CEO-is-a-Bot.md
