@@ -11,3 +11,7 @@
 [AI Defacement - Lost in AI Translation](https://github.com/airctl/airctl-gameplay-resources/blob/main/scenarios/DEFACEMENT_Lost-In-Translation.md)
 
 [AI Exploitation - The CEO is a Bot](https://github.com/airctl/airctl-gameplay-resources/blob/main/scenarios/EXPLOITATION_The-CEO-is-a-Bot.md)
+
+## Build AIRCTL Quick Play Scenarios
+
+[Template Scenario](https://github.com/airctl/airctl-gameplay-resources/blob/main/scenarios/TEMPLATE-SCENARIO.md)
