@@ -32,7 +32,17 @@ A **Preamble** for the scenario itself clues in the other players (the *Defender
 
 **4. Read the Preamble** After the game starts, the IC shou
 
+## Use Quick Play Scenarios 
 
+*INFO: Do not click these if you are a player -- these are Incident Commander Eyes Only!!!*
+
+[AI Defacement - Lost in AI Translation](https://github.com/airctl/airctl-gameplay-resources/blob/main/scenarios/DEFACEMENT_Lost-In-Translation.md)
+
+[AI Exploitation - The CEO is a Bot](https://github.com/airctl/airctl-gameplay-resources/blob/main/scenarios/EXPLOITATION_The-CEO-is-a-Bot.md)
+
+## Build AIRCTL Quick Play Scenarios
+
+[Template Scenario](https://github.com/airctl/airctl-gameplay-resources/blob/main/scenarios/TEMPLATE-SCENARIO.md)
 
 ## Resources 
 Links to Backdoors & Breaches
