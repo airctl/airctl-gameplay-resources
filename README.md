@@ -2,7 +2,7 @@
 
 ## Learn about AIRCTL Quick Play Scenarios
 
-https://github.com/airctl/airctl-gameplay-resources/blob/main/scenarios/README.md
+AIRCTL Project Quick Play Scenarios Guide
 
 ## Use Quick Play Scenarios 
 
