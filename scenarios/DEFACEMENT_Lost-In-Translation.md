@@ -17,8 +17,6 @@ PERSISTENCE - MALICIOUS SERVICE
 - Endpoint Analysis, Memory Analysis, Endpoint Security Protection Analysis
 
 ## Preamble
-**< TEXT TO READ AT START >**
-
 We are an AI startup and we provide subtitles and bilingual translations using machine learning. There are curse words coming into the translations - at least this is what the users are reporting. 
 
 We have a really good PR team, and we have a lot of good network analysts for firewall review. Now there is a need to figure out why our data is being poisoned. 
@@ -48,6 +46,8 @@ We have a really good PR team, and we have a lot of good network analysts for fi
 - OPTIONAL HINT: We see that it’s increasing memory usage and also showing up in endpoint logging.
 
 ## Scenario Resources
+- Play here: https://airctl.github.io/
+- Model Poisoning in MITRE ATLAS: https://atlas.mitre.org/techniques/AML.T0018.000
 
 ## Scenario Information
 
@@ -65,7 +65,6 @@ Backdoors & Breaches Decks
 - August 14th, 2025
 
 ### License & References:
-- License: 
+- License: https://github.com/airctl/airctl-gameplay-resources/blob/main/LICENSE
 - Instructions https://github.com/airctl/airctl-gameplay-resources/blob/main/scenarios/README.md
 - Organization: https://github.com/airctl
-- Play here: https://airctl.github.io/
