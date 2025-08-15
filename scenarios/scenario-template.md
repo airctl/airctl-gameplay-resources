@@ -47,7 +47,6 @@ PERSISTENCE: **< CARD TITLE >**
 
 ### Publication Date
 
-### License: CC-BY-4
-
-*Reference: https://github.com/airctl/airctl-gameplay-resources/blob/main/scenarios/README.md for directions on this Template*
+### License & References:
+https://github.com/airctl/airctl-gameplay-resources/blob/main/scenarios/README.md
 
