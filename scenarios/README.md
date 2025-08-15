@@ -41,5 +41,3 @@ Links to Backdoors & Breaches
 **Bold terms are from the AIRCTL resources**
 
 *Italic terms are inherited from the Backdoors and Breaches base game by BlackHills Information security*
-
-### License: Creative Commons CC-BY-4.0
