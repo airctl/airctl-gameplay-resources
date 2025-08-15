@@ -48,6 +48,8 @@ PERSISTENCE: **< CARD TITLE >**
 ### Authors
 
 ### Publication Date
+- Beta Publication: 
+- Launch:
 
 ### License & References
 - https://github.com/airctl/airctl-gameplay-resources/blob/main/scenarios/AIRCTL-Project-Quick-Play-Scenarios-Guide.md
