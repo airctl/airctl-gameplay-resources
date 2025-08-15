@@ -17,7 +17,7 @@ PERSISTENCE: **< CARD TITLE >**
 ## Preamble
 **< TEXT TO READ AT START >**
 
-## Hints
+## Hints (no particular order)
 - Hint 1
 - ...
 - Hint N
@@ -25,15 +25,19 @@ PERSISTENCE: **< CARD TITLE >**
 ## Card Flip Scripts
 INITIAL ACCESS: **< CARD TITLE >**
 - Read when Flipped: **< TEXT >**
+- OPTIONAL HINT: **< TEXT >**
 
 PIVOT and ESCALATE: **< CARD TITLE >**
 - Read when Flipped: **< TEXT >**
+- OPTIONAL HINT: **< TEXT >**
 
 C2 and EXFIL: **< CARD TITLE >**
 - Read when Flipped: **< TEXT >**
+- OPTIONAL HINT: **< TEXT >**
 
 PERSISTENCE: **< CARD TITLE >**
 - Read when Flipped: **< TEXT >**
+- OPTIONAL HINT: **< TEXT >**
 
 ## Scenario Resources
 
