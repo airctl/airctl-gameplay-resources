@@ -6,9 +6,7 @@ Quick-Play scenarios save setup time and ensure that gameplay is relevant to the
 
 ## Inside a Quick-Play Scenario
 
-The *attack* is the 4-card setup for the IC to prepare for the game. 
-
-It includes all 4 cards that are needed and a **Scenario Detections Map** that lists the Detections for each card. This provides the IC answers to the 4 cards so that they do not need to be flipped or checked during gameplay. 
+The **Scenario Detections Map** includes all 4 cards that are needed to compose an *attack* and a list of the Detections for each card. The *attack* is the 4-card setup for the IC to prepare for the game. This provides the IC both the initial setup and the answers to the 4 cards so that they do not need to be flipped or checked during gameplay. 
 
 A **Preamble** for the scenario itself clues in the other players (the *Defenders*) on what's going on. The preamble contains both useful and irrelevant clues that the Defenders can use to start picking *Procedures*.
 
