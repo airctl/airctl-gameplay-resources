@@ -16,6 +16,8 @@ A **Preamble** for the scenario itself clues in the other players (the *Defender
 
 **Scenario Resources** include anything that can increase the fun and relevance of the Scenario, such as real media links to examples of similar incidents.
 
+**Scenario Information** is a metadata group consisting of information needed to 
+
 **Requirements** describe the deck versions required for the scenario
 
 **Authors** are the individuals who supported the Scenario development.
