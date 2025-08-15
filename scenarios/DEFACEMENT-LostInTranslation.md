@@ -1,5 +1,7 @@
 # Quick Play Scenario: "Lost in Translation"
 
+
+
 **< IMAGE OF ATTACK >**
 ## Scenario Detections Map:
 INITIAL ACCESS: **< CARD TITLE >**
