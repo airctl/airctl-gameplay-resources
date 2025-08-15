@@ -1,6 +1,6 @@
 # AIRCTL Project Quick Play Scenarios Guide
 
-Quick Play Scenarios are community-contributed example scenarios for games that can be run by a novice. They contain all of the information needed so that an Incident Captain (IC) is able to run them with no preparation and provide a realistic and enjoyable play experience without having to do any of the storytelling themselves. 
+Quick Play Scenarios are community-contributed fictional example scenarios for games that can be run by a novice. They contain all of the information needed so that an Incident Captain (IC) is able to run them with no preparation and provide a realistic and enjoyable play experience without having to do any of the storytelling themselves. 
 
 Quick-Play scenarios save setup time and ensure that gameplay is relevant to the interests of a group with specific interests. 
 
