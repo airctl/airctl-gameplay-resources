@@ -45,8 +45,12 @@ PERSISTENCE: **< CARD TITLE >**
 
 ### Publication Date
 
-### License & References:
-https://github.com/airctl/airctl-gameplay-resources/blob/main/scenarios/README.md
+### License & References
+https://github.com/airctl/airctl-gameplay-resources/blob/main/scenarios/AIRCTL-Project-Quick-Play-Scenarios-Guide.md
+
 https://github.com/airctl
+
 https://airctl.github.io/
 
+### Disclaimer
+This is a work of fiction intended to portray realistic scenarios. The names, characters and incidents portrayed in it are works of imagination. Any resemblance to actual persons, living or dead, events or localities is entirely coincidental.
