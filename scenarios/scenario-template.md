@@ -1,1 +1,53 @@
+----
+
+# Quick Play Scenario: **< SCENARIO TITLE >**
+
+**< IMAGE OF ATTACK >**
+## Scenario Detections Map:
+INITIAL ACCESS: **< CARD TITLE >**
+- Procedure 1, ..., Procedure N
+
+PIVOT and ESCALATE: **< CARD TITLE >**
+- Procedure 1, ..., Procedure N
+
+C2 and EXFIL: **< CARD TITLE >**
+- Procedure 1, ..., Procedure N
+
+PERSISTENCE: **< CARD TITLE >**
+- Procedure 1, ..., Procedure N
+
+## Preamble
+**< TEXT TO READ AT START >**
+
+## Hints
+- Hint 1
+- ...
+- Hint N
+
+## Card Flip Scripts
+INITIAL ACCESS: **< CARD TITLE >**
+- Read when Flipped: **< TEXT >**
+
+PIVOT and ESCALATE: **< CARD TITLE >**
+- Read when Flipped: **< TEXT >**
+
+C2 and EXFIL: **< CARD TITLE >**
+- Read when Flipped: **< TEXT >**
+
+PERSISTENCE: **< CARD TITLE >**
+- Read when Flipped: **< TEXT >**
+
+## Scenario Resources
+
+## Scenario Information
+
+### Requirements
+
+### Authors
+
+### Publication Date
+
+### License: CC-BY-4
+
+*Reference: https://github.com/airctl/airctl-gameplay-resources/blob/main/scenarios/README.md for directions on this Template*
 
