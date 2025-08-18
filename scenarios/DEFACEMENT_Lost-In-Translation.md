@@ -57,7 +57,7 @@ Backdoors & Breaches Decks
 - AIRCTL Project AIRCTL Deck - as launched 2024-10-22 on https://airctl.github.io/
 
 ### Authors
-- Sam Ziegler, Mark O. Hatfield Cybersecurity and Cyber Defense Policy Center & Oregon Cybersecurity Center of Excellence
+- Sam Ziegler, Portland State University 
 - Emily Soward, AIRCTL Project
 - Jonathan Reiter, AIRCTL Project
 
